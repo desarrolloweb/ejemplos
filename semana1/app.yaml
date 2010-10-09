@@ -1,0 +1,9 @@
+application: demosdesarrolloweb
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /estaticos
+  static_dir: estaticos
+
